@@ -1,0 +1,7 @@
+<html>
+<head>
+</head>
+<body>
+<p><b><h2><center> WELCOME </center></h2></b></p>
+<img src="C:\Users\SAMAD\Desktop\galaxy.jpg" height=100 width=80>
+</body>
